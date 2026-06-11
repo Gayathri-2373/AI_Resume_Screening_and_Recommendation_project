@@ -72,6 +72,10 @@ Conclusion
 
     The project demonstrates the practical application of AI and NLP in recruitment processes. It helps job seekers understand their strengths and weaknesses while assisting organizations in automating resume screening.
 
+Live Demo:
+    
+   https://airesumescreeningandrecommendationproject-2eeuj96n23aekd9iewfq.streamlit.app
+   
 Author
 
 Gayathri Parthipan
